@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="Extract Files with ${applicationName}" xml:space="preserve">
         <source>Extract Files with ${applicationName}</source>
-        <target>Dekomprimovat soubory pomocí ${applicationName}</target>
+        <target>Rozbalit soubory pomocí ${applicationName}</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -24,277 +24,277 @@
     <body>
       <trans-unit id="7Z Archive" xml:space="preserve">
         <source>7Z Archive</source>
-        <target>7Z Archive</target>
+        <target>Archiv 7Z</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ACE Archive" xml:space="preserve">
         <source>ACE Archive</source>
-        <target>ACE Archive</target>
+        <target>Archiv ACE</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ALZip Archive" xml:space="preserve">
         <source>ALZip Archive</source>
-        <target>ALZip Archive</target>
+        <target>Archiv ALZip</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="APPX Archive" xml:space="preserve">
         <source>APPX Archive</source>
-        <target>APPX Archive</target>
+        <target>Archiv APPX</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ARC Archive" xml:space="preserve">
         <source>ARC Archive</source>
-        <target>ARC Archive</target>
+        <target>Archiv ARC</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ARJ Archive" xml:space="preserve">
         <source>ARJ Archive</source>
-        <target>ARJ Archive</target>
+        <target>Archiv ARJ</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Amiga DCS Disk Archive" xml:space="preserve">
         <source>Amiga DCS Disk Archive</source>
-        <target>Amiga DCS Disk Archive</target>
+        <target>Diskový archiv Amiga DCS</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Amiga DMS Disk Archive" xml:space="preserve">
         <source>Amiga DMS Disk Archive</source>
-        <target>Amiga DMS Disk Archive</target>
+        <target>Diskový archiv Amiga DMS</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Amiga Disk File" xml:space="preserve">
         <source>Amiga Disk File</source>
-        <target>Amiga Disk File</target>
+        <target>Diskový soubor Amiga</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Amiga PackDev Disk Archive" xml:space="preserve">
         <source>Amiga PackDev Disk Archive</source>
-        <target>Amiga PackDev Disk Archive</target>
+        <target>Diskový archiv Amiga PackDev</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Amiga PowerPacker Archive" xml:space="preserve">
         <source>Amiga PowerPacker Archive</source>
-        <target>Amiga PowerPacker Archive</target>
+        <target>Archiv Amiga PowerPacker</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Amiga Zoom Disk Archive" xml:space="preserve">
         <source>Amiga Zoom Disk Archive</source>
-        <target>Amiga Zoom Disk Archive</target>
+        <target>Diskový archiv Amiga Zoom</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Amiga xMash Disk Archive" xml:space="preserve">
         <source>Amiga xMash Disk Archive</source>
-        <target>Amiga xMash Disk Archive</target>
+        <target>Diskový archiv Amiga xMash</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Android Application Package" xml:space="preserve">
         <source>Android Application Package</source>
-        <target>Android Application Package</target>
+        <target>Balíček aplikace pro Android</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Apple Archive" xml:space="preserve">
         <source>Apple Archive</source>
-        <target>Apple Archive</target>
+        <target>Archiv Apple</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="BZIP2 Archive" xml:space="preserve">
         <source>BZIP2 Archive</source>
-        <target>BZIP2 Archive</target>
+        <target>Archiv BZIP2</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="BZIP2 Tarball Archive" xml:space="preserve">
         <source>BZIP2 Tarball Archive</source>
-        <target>BZIP2 Tarball Archive</target>
+        <target>Archiv TAR komprimovaný BZIP2</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="CAB Archive" xml:space="preserve">
         <source>CAB Archive</source>
-        <target>CAB Archive</target>
+        <target>Archiv CAB</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="CDI Disk Image" xml:space="preserve">
         <source>CDI Disk Image</source>
-        <target>CDI Disk Image</target>
+        <target>Obraz disku CDI</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compact Pro Archive" xml:space="preserve">
         <source>Compact Pro Archive</source>
-        <target>Compact Pro Archive</target>
+        <target>Archiv Compact Pro</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compressed Amiga Disk File" xml:space="preserve">
         <source>Compressed Amiga Disk File</source>
-        <target>Compressed Amiga Disk File</target>
+        <target>Komprimovaný diskový soubor Amiga</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Deb Archive" xml:space="preserve">
         <source>Deb Archive</source>
-        <target>Deb Archive</target>
+        <target>Archiv DEB</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DiskDoubler Archive" xml:space="preserve">
         <source>DiskDoubler Archive</source>
-        <target>DiskDoubler Archive</target>
+        <target>Archiv DiskDoubler</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Generic Archive Volume" xml:space="preserve">
         <source>Generic Archive Volume</source>
-        <target>Generic Archive Volume</target>
+        <target>Obecný díl archivu</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="HA Archive" xml:space="preserve">
         <source>HA Archive</source>
-        <target>HA Archive</target>
+        <target>Archiv HA</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Keka Extraction Package" xml:space="preserve">
         <source>Keka Extraction Package</source>
-        <target>Keka Extraction Package</target>
+        <target>Balíček pro rozbalení Keka</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LBR Archive" xml:space="preserve">
         <source>LBR Archive</source>
-        <target>LBR Archive</target>
+        <target>Archiv LBR</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LZMA File" xml:space="preserve">
         <source>LZMA File</source>
-        <target>LZMA File</target>
+        <target>Soubor LZMA</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LZX Archive" xml:space="preserve">
         <source>LZX Archive</source>
-        <target>LZX Archive</target>
+        <target>Archiv LZX</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LhA Archive" xml:space="preserve">
         <source>LhA Archive</source>
-        <target>LhA Archive</target>
+        <target>Archiv LhA</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LhF Archive" xml:space="preserve">
         <source>LhF Archive</source>
-        <target>LhF Archive</target>
+        <target>Archiv LhF</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Linux RPM Archive" xml:space="preserve">
         <source>Linux RPM Archive</source>
-        <target>Linux RPM Archive</target>
+        <target>Archiv RPM pro Linux</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="MDF Disk Image" xml:space="preserve">
         <source>MDF Disk Image</source>
-        <target>MDF Disk Image</target>
+        <target>Obraz disku MDF</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Microsoft MSI Installer" xml:space="preserve">
         <source>Microsoft MSI Installer</source>
-        <target>Microsoft MSI Installer</target>
+        <target>Instalační balíček Microsoft MSI</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="NRG Disk Image" xml:space="preserve">
         <source>NRG Disk Image</source>
-        <target>NRG Disk Image</target>
+        <target>Obraz disku NRG</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="NSA Archive" xml:space="preserve">
         <source>NSA Archive</source>
-        <target>NSA Archive</target>
+        <target>Archiv NSA</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Now Compress Archive" xml:space="preserve">
         <source>Now Compress Archive</source>
-        <target>Now Compress Archive</target>
+        <target>Archiv Now Compress</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="PMA Archive" xml:space="preserve">
         <source>PMA Archive</source>
-        <target>PMA Archive</target>
+        <target>Archiv PMA</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="PackIt Archive" xml:space="preserve">
         <source>PackIt Archive</source>
-        <target>PackIt Archive</target>
+        <target>Archiv PackIt</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pax Archive" xml:space="preserve">
         <source>Pax Archive</source>
-        <target>Pax Archive</target>
+        <target>Archiv Pax</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="RAR Archive" xml:space="preserve">
         <source>RAR Archive</source>
-        <target>RAR Archive</target>
+        <target>Archiv RAR</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="SAR Archive" xml:space="preserve">
         <source>SAR Archive</source>
-        <target>SAR Archive</target>
+        <target>Archiv SAR</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Self-Extracting Archive" xml:space="preserve">
         <source>Self-Extracting Archive</source>
-        <target>Self-Extracting Archive</target>
+        <target>Samorozbalovací archiv</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unix Compress File" xml:space="preserve">
         <source>Unix Compress File</source>
-        <target>Unix Compress File</target>
+        <target>Soubor Unix Compress</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unix Compress Tar Archive" xml:space="preserve">
         <source>Unix Compress Tar Archive</source>
-        <target>Unix Compress Tar Archive</target>
+        <target>Archiv TAR komprimovaný Unix Compress</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="WARC Web Archive" xml:space="preserve">
         <source>WARC Web Archive</source>
-        <target>WARC Web Archive</target>
+        <target>Webový archiv WARC</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="XAR Archive" xml:space="preserve">
         <source>XAR Archive</source>
-        <target>XAR Archive</target>
+        <target>Archiv XAR</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="XIP Archive" xml:space="preserve">
         <source>XIP Archive</source>
-        <target>XIP Archive</target>
+        <target>Archiv XIP</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="XZ Archive" xml:space="preserve">
         <source>XZ Archive</source>
-        <target>XZ Archive</target>
+        <target>Archiv XZ</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="XZ Tarball Archive" xml:space="preserve">
         <source>XZ Tarball Archive</source>
-        <target>XZ Tarball Archive</target>
+        <target>Archiv TAR komprimovaný XZ</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ZIP Archive" xml:space="preserve">
         <source>ZIP Archive</source>
-        <target>ZIP Archive</target>
+        <target>Archiv ZIP</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ZIPX Archive" xml:space="preserve">
         <source>ZIPX Archive</source>
-        <target>ZIPX Archive</target>
+        <target>Archiv ZIPX</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ZOO Archive" xml:space="preserve">
         <source>ZOO Archive</source>
-        <target>ZOO Archive</target>
+        <target>Archiv ZOO</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Zstandard Archive" xml:space="preserve">
         <source>Zstandard Archive</source>
-        <target>Zstandard Archive</target>
+        <target>Archiv Zstandard</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Zstandard Tarball Archive" xml:space="preserve">
         <source>Zstandard Tarball Archive</source>
-        <target>Zstandard Tarball Archive</target>
+        <target>Archiv TAR komprimovaný Zstandard</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -366,42 +366,42 @@
       </trans-unit>
       <trans-unit id="About" xml:space="preserve">
         <source>About</source>
-        <target>Co je</target>
+        <target>O aplikaci</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About %lld days" xml:space="preserve">
         <source>About %lld days</source>
-        <target>Okolo %lld dní</target>
+        <target>Přibližně %lld dní</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About %lld hours" xml:space="preserve">
         <source>About %lld hours</source>
-        <target>Okolo %lld hodin</target>
+        <target>Přibližně %lld hodin</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About %lld minutes" xml:space="preserve">
         <source>About %lld minutes</source>
-        <target>Okolo %lld minut</target>
+        <target>Přibližně %lld minut</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About %lld months" xml:space="preserve">
         <source>About %lld months</source>
-        <target>Okolo %lld měsíců</target>
+        <target>Přibližně %lld měsíců</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About %lld seconds" xml:space="preserve">
         <source>About %lld seconds</source>
-        <target>Okolo %lld sekund</target>
+        <target>Přibližně %lld sekund</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About %lld weeks" xml:space="preserve">
         <source>About %lld weeks</source>
-        <target>Okolo %lld týdnů</target>
+        <target>Přibližně %lld týdnů</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About %lld years" xml:space="preserve">
         <source>About %lld years</source>
-        <target>Okolo %lld let</target>
+        <target>Přibližně %lld let</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About a day" xml:space="preserve">
@@ -411,7 +411,7 @@
       </trans-unit>
       <trans-unit id="About a minute" xml:space="preserve">
         <source>About a minute</source>
-        <target>Přibližně minuta</target>
+        <target>Přibližně minutu</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About a month" xml:space="preserve">
@@ -421,7 +421,7 @@
       </trans-unit>
       <trans-unit id="About a second" xml:space="preserve">
         <source>About a second</source>
-        <target>Přibližně seunda</target>
+        <target>Přibližně sekundu</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About a week" xml:space="preserve">
@@ -436,7 +436,7 @@
       </trans-unit>
       <trans-unit id="About an hour" xml:space="preserve">
         <source>About an hour</source>
-        <target>Přibližně hodina</target>
+        <target>Přibližně hodinu</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Actions" xml:space="preserve">
@@ -446,7 +446,7 @@
       </trans-unit>
       <trans-unit id="Actions to do with the current browsed file" xml:space="preserve">
         <source>Actions to do with the current browsed file</source>
-        <target>Akce, které se mají provést s aktuálním souborem</target>
+        <target>Akce pro aktuálně procházený soubor</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add a File" xml:space="preserve">
@@ -466,7 +466,7 @@
       </trans-unit>
       <trans-unit id="Add files and folders to a compression list" xml:space="preserve">
         <source>Add files and folders to a compression list</source>
-        <target>Přidat soubory a složky na seznam pro komprimaci</target>
+        <target>Přidat soubory a složky do seznamu pro komprimaci</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add some contents using the %@ button." xml:space="preserve">
@@ -476,7 +476,7 @@
       </trans-unit>
       <trans-unit id="Advanced Settings" xml:space="preserve">
         <source>Advanced Settings</source>
-        <target>Další volby</target>
+        <target>Pokročilá nastavení</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Allocated size" xml:space="preserve">
@@ -491,12 +491,12 @@
       </trans-unit>
       <trans-unit id="Archive items separately" xml:space="preserve">
         <source>Archive items separately</source>
-        <target>Komprimovat každou položku samostatně</target>
+        <target>Archivovat každou položku samostatně</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ask" xml:space="preserve">
         <source>Ask</source>
-        <target>Dotázat se</target>
+        <target>Zeptat se</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="BROWSE_OPERATION" xml:space="preserve">
@@ -506,12 +506,12 @@
       </trans-unit>
       <trans-unit id="BROWSE_RUNNING" xml:space="preserve">
         <source>Browsing</source>
-        <target>Prochází se</target>
+        <target>Procházení</target>
         <note>Browsing, operation running.</note>
       </trans-unit>
       <trans-unit id="BROWSE_SECTION_TITLE" xml:space="preserve">
         <source>Browsing</source>
-        <target>Prochází se</target>
+        <target>Procházení</target>
         <note>Browsing, tasks section title.</note>
       </trans-unit>
       <trans-unit id="Browser" xml:space="preserve">
@@ -536,12 +536,12 @@
       </trans-unit>
       <trans-unit id="COMPRESSION_SECTION_TITLE" xml:space="preserve">
         <source>Compressing</source>
-        <target>Komprimování</target>
+        <target>Komprimuje se</target>
         <note>Compressing, tasks section title.</note>
       </trans-unit>
       <trans-unit id="Calculate" xml:space="preserve">
         <source>Calculate</source>
-        <target>Spočítat</target>
+        <target>Vypočítat</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
@@ -561,12 +561,12 @@
       </trans-unit>
       <trans-unit id="Clear Cache" xml:space="preserve">
         <source>Clear Cache</source>
-        <target>Vymazat vyrovnávací paměť</target>
+        <target>Vymazat mezipaměť</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Clear Cache Contents" xml:space="preserve">
         <source>Clear Cache Contents</source>
-        <target>Vymazat obsah vyrovnávací paměti</target>
+        <target>Vymazat obsah mezipaměti</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
@@ -576,17 +576,17 @@
       </trans-unit>
       <trans-unit id="Comments" xml:space="preserve">
         <source>Comments</source>
-        <target>Poznámky</target>
+        <target>Komentáře</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compress" xml:space="preserve">
         <source>Compress</source>
-        <target>Komprimace</target>
+        <target>Komprimovat</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compress Files with Keka" xml:space="preserve">
         <source>Compress Files with Keka</source>
-        <target>Komprimovat pomocí Keka</target>
+        <target>Komprimovat soubory pomocí Keka</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compress all the items in the compression list" xml:space="preserve">
@@ -596,7 +596,7 @@
       </trans-unit>
       <trans-unit id="Compress some files with Keka." xml:space="preserve">
         <source>Compress some files with Keka.</source>
-        <target>Komprimovat několik souborů pomocí Keka.</target>
+        <target>Komprimovat soubory pomocí Keka.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compressed size" xml:space="preserve">
@@ -621,12 +621,12 @@
       </trans-unit>
       <trans-unit id="Contents: %@, Size: %@" xml:space="preserve">
         <source>Contents: %@, Size: %@</source>
-        <target>Obsahuje: %@, velikost: %@</target>
+        <target>Obsah: %@, velikost: %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Contents: %lld, Size: %@" xml:space="preserve">
         <source>Contents: %lld, Size: %@</source>
-        <target>Obsahuje: %lld, velikost: %@</target>
+        <target>Obsah: %lld, velikost: %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Created" xml:space="preserve">
@@ -661,12 +661,12 @@
       </trans-unit>
       <trans-unit id="Default Tap Action" xml:space="preserve">
         <source>Default Tap Action</source>
-        <target>Výchozí akce (dotyk)</target>
+        <target>Výchozí akce klepnutí</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Default Volume Unit" xml:space="preserve">
         <source>Default Volume Unit</source>
-        <target>Výchozí jednotka</target>
+        <target>Výchozí jednotka velikosti</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
@@ -676,7 +676,7 @@
       </trans-unit>
       <trans-unit id="Delete files(s) after compression" xml:space="preserve">
         <source>Delete files(s) after compression</source>
-        <target>Smazat soubor(y) po dokončení komprimace</target>
+        <target>Smazat soubor(y) po komprimaci</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Destination" xml:space="preserve">
@@ -686,12 +686,12 @@
       </trans-unit>
       <trans-unit id="Disable &quot;%@&quot; if you prefer to use a default configuration." xml:space="preserve">
         <source>Disable "%@" if you prefer to use a default configuration.</source>
-        <target>Vypněte „%@“ pokud si přejete použít výchozí konfiguraci.</target>
+        <target>Vypněte „%@“, pokud chcete použít výchozí konfiguraci.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Dismiss" xml:space="preserve">
         <source>Dismiss</source>
-        <target>Nepovolit</target>
+        <target>Zavřít</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Document" xml:space="preserve">
@@ -711,22 +711,22 @@
       </trans-unit>
       <trans-unit id="Downloads" xml:space="preserve">
         <source>Downloads</source>
-        <target>Kopírování</target>
+        <target>Stažené soubory</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="EXTRACTION_OPERATION" xml:space="preserve">
         <source>Extraction</source>
-        <target>Dekomprimace</target>
+        <target>Rozbalení</target>
         <note>Extraction, operation description.</note>
       </trans-unit>
       <trans-unit id="EXTRACTION_RUNNING" xml:space="preserve">
         <source>Extracting</source>
-        <target>Dekomprimuje se</target>
+        <target>Rozbaluje se</target>
         <note>Extracting, operation running.</note>
       </trans-unit>
       <trans-unit id="EXTRACTION_SECTION_TITLE" xml:space="preserve">
         <source>Extracting</source>
-        <target>Dekomprimovat</target>
+        <target>Rozbalit</target>
         <note>Extracting, tasks section title.</note>
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
@@ -736,12 +736,12 @@
       </trans-unit>
       <trans-unit id="Encrypt Filenames" xml:space="preserve">
         <source>Encrypt Filenames</source>
-        <target>Šifrovat jména souborů</target>
+        <target>Šifrovat názvy souborů</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Encrypt Filenames if Possible" xml:space="preserve">
         <source>Encrypt Filenames if Possible</source>
-        <target>Pokud je to možné šifrovat jména souborů</target>
+        <target>Pokud je to možné, šifrovat názvy souborů</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Enter the password for the file&#10;&quot;%@&quot;" xml:space="preserve">
@@ -753,27 +753,27 @@
       </trans-unit>
       <trans-unit id="Exclude Mac resource forks" xml:space="preserve">
         <source>Exclude Mac resource forks</source>
-        <target>Nezahrnovat Resource fork (macOS)</target>
+        <target>Vyloučit resource forks systému macOS</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extract" xml:space="preserve">
         <source>Extract</source>
-        <target>Dekomprimovat</target>
+        <target>Rozbalit</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extract Files with Keka" xml:space="preserve">
         <source>Extract Files with Keka</source>
-        <target>Dekomprimovat soubory pomocí Keka</target>
+        <target>Rozbalit soubory pomocí Keka</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extract some files with Keka." xml:space="preserve">
         <source>Extract some files with Keka.</source>
-        <target>Dekomprimovat několik souborů pomocí Keka.</target>
+        <target>Rozbalit několik souborů pomocí Keka.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extraction" xml:space="preserve">
         <source>Extraction</source>
-        <target>Dekomprimace</target>
+        <target>Rozbalení</target>
         <note>Extraction settings title.</note>
       </trans-unit>
       <trans-unit id="Fast" xml:space="preserve">
@@ -788,17 +788,17 @@
       </trans-unit>
       <trans-unit id="Feedback" xml:space="preserve">
         <source>Feedback</source>
-        <target>Odezva</target>
+        <target>Zpětná vazba</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="File for Keka" xml:space="preserve">
         <source>File for Keka</source>
-        <target>Soubor pro aplikaci Keka</target>
+        <target>Soubor pro Keka</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="File not informed properly, try again." xml:space="preserve">
         <source>File not informed properly, try again.</source>
-        <target>Soubor nebyl správně určen, zkuste to znovu.</target>
+        <target>Soubor nebyl správně rozpoznán, zkuste to znovu.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Files" xml:space="preserve">
@@ -813,7 +813,7 @@
       </trans-unit>
       <trans-unit id="Finishing" xml:space="preserve">
         <source>Finishing</source>
-        <target>Dokočuje se</target>
+        <target>Dokončuje se</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Folder drop is only supported on iOS 16 or newer" xml:space="preserve">
@@ -828,7 +828,7 @@
       </trans-unit>
       <trans-unit id="General" xml:space="preserve">
         <source>General</source>
-        <target>Hlavní</target>
+        <target>Obecné</target>
         <note>General settings title.</note>
       </trans-unit>
       <trans-unit id="Get Info" xml:space="preserve">
@@ -838,7 +838,7 @@
       </trans-unit>
       <trans-unit id="Gigabyte" xml:space="preserve">
         <source>Gigabyte</source>
-        <target>Gigabajtů</target>
+        <target>Gigabajt</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Give Access" xml:space="preserve">
@@ -848,7 +848,7 @@
       </trans-unit>
       <trans-unit id="Hide Password by Default" xml:space="preserve">
         <source>Hide Password by Default</source>
-        <target>Ve výchozím stavu skrýt heslo</target>
+        <target>Ve výchozím nastavení skrýt heslo</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="If you got here, please get in touch with the developers." xml:space="preserve">
@@ -873,7 +873,7 @@
       </trans-unit>
       <trans-unit id="Kilobytes" xml:space="preserve">
         <source>Kilobytes</source>
-        <target>Kilobajtů</target>
+        <target>Kilobajty</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Kind" xml:space="preserve">
@@ -903,7 +903,7 @@
       </trans-unit>
       <trans-unit id="Megabytes" xml:space="preserve">
         <source>Megabytes</source>
-        <target>Megabajtů</target>
+        <target>Megabajty</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Modified" xml:space="preserve">
@@ -913,12 +913,12 @@
       </trans-unit>
       <trans-unit id="Move compressed file(s) to Trash after extraction" xml:space="preserve">
         <source>Move compressed file(s) to Trash after extraction</source>
-        <target>Přesunout komprimované soubory po rozbalení do Koše</target>
+        <target>Po rozbalení přesunout archivy do Koše</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Move original file(s) to Trash after compression" xml:space="preserve">
         <source>Move original file(s) to Trash after compression</source>
-        <target>Přesunout původní soubory pro komprimaci do koše</target>
+        <target>Po komprimaci přesunout původní soubory do Koše</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
@@ -943,12 +943,12 @@
       </trans-unit>
       <trans-unit id="No files to extract" xml:space="preserve">
         <source>No files to extract</source>
-        <target>Žádné soubory k dekomprimaci</target>
+        <target>Žádné soubory k rozbalení</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="None" xml:space="preserve">
         <source>None</source>
-        <target>Nic</target>
+        <target>Žádné</target>
         <note>Password field empty placeholder</note>
       </trans-unit>
       <trans-unit id="Normal" xml:space="preserve">
@@ -958,7 +958,7 @@
       </trans-unit>
       <trans-unit id="Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." xml:space="preserve">
         <source>Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files.</source>
-        <target>Ne všechny platformy podporují šifrování AES-256. Možná budete potřebovat další aplikaci (jako Keka) pro otevření komprimovaného souboru.</target>
+        <target>Ne všechny platformy podporují šifrování AES-256. K otevření těchto komprimovaných souborů můžete potřebovat aplikaci třetí strany (například Keka).</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
@@ -973,7 +973,7 @@
       </trans-unit>
       <trans-unit id="Open Keka" xml:space="preserve">
         <source>Open Keka</source>
-        <target>Otevřít pomocí Keka</target>
+        <target>Otevřít v Keka</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open…" xml:space="preserve">
@@ -1008,12 +1008,12 @@
       </trans-unit>
       <trans-unit id="Pause" xml:space="preserve">
         <source>Pause</source>
-        <target>Přerušení</target>
+        <target>Pozastavit</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Petabytes" xml:space="preserve">
         <source>Petabytes</source>
-        <target>Petabajtů</target>
+        <target>Petabajty</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please enter the password for:" xml:space="preserve">
@@ -1023,7 +1023,7 @@
       </trans-unit>
       <trans-unit id="Please select the encoding for:" xml:space="preserve">
         <source>Please select the encoding for:</source>
-        <target>Zadejte prosím kódování pro:</target>
+        <target>Vyberte prosím kódování pro:</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Preparing" xml:space="preserve">
@@ -1038,7 +1038,7 @@
       </trans-unit>
       <trans-unit id="Quick Look" xml:space="preserve">
         <source>Quick Look</source>
-        <target>Quick Look</target>
+        <target>Rychlý náhled</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remember Last Used Options" xml:space="preserve">
@@ -1053,7 +1053,7 @@
       </trans-unit>
       <trans-unit id="Remove All Items" xml:space="preserve">
         <source>Remove All Items</source>
-        <target>Odstranit vše</target>
+        <target>Odstranit všechny položky</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remove from cache" xml:space="preserve">
@@ -1073,17 +1073,17 @@
       </trans-unit>
       <trans-unit id="Reset All Settings" xml:space="preserve">
         <source>Reset All Settings</source>
-        <target>Obnovit všechny nastavení</target>
+        <target>Obnovit všechna nastavení</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Resume" xml:space="preserve">
         <source>Resume</source>
-        <target>Dokončit</target>
+        <target>Pokračovat</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Review" xml:space="preserve">
         <source>Review</source>
-        <target>Posouzení</target>
+        <target>Kontrola</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Run asynchronously" xml:space="preserve">
@@ -1118,7 +1118,7 @@
       </trans-unit>
       <trans-unit id="Show Advanced Settings" xml:space="preserve">
         <source>Show Advanced Settings</source>
-        <target>Zobrazit další volby</target>
+        <target>Zobrazit pokročilá nastavení</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show Info" xml:space="preserve">
@@ -1133,7 +1133,7 @@
       </trans-unit>
       <trans-unit id="Show or hide additional advanced settings" xml:space="preserve">
         <source>Show or hide additional advanced settings</source>
-        <target>Zobrazit nebo skrýt další volby</target>
+        <target>Zobrazit nebo skrýt další pokročilá nastavení</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show or hide additional information about the selected item" xml:space="preserve">
@@ -1148,22 +1148,22 @@
       </trans-unit>
       <trans-unit id="Slow" xml:space="preserve">
         <source>Slow</source>
-        <target>Pomalu</target>
+        <target>Pomalá</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Slowest" xml:space="preserve">
         <source>Slowest</source>
-        <target>Nejpomaleji</target>
+        <target>Nejpomalejší</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Split in volumes" xml:space="preserve">
         <source>Split in volumes</source>
-        <target>Rozdělit na svazky</target>
+        <target>Rozdělit do dílů</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Store" xml:space="preserve">
         <source>Store</source>
-        <target>Bez komprimace</target>
+        <target>Bez komprese</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="TRANSLATOR_LINK" xml:space="preserve">
@@ -1178,12 +1178,12 @@
       </trans-unit>
       <trans-unit id="Terabytes" xml:space="preserve">
         <source>Terabytes</source>
-        <target>Terabajtů</target>
+        <target>Terabajty</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The %@ of space available in the destination might not be enough for compressing the estimated %@." xml:space="preserve">
         <source>The %@ of space available in the destination might not be enough for compressing the estimated %@.</source>
-        <target>Dostupné místo %@ na cílovém úložišti možná nebude stačit pro dekomprimaci %@.</target>
+        <target>Dostupných %@ místa v cílovém umístění nemusí stačit pro komprimaci odhadované velikosti %@.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The changes could not be saved" xml:space="preserve">
@@ -1208,7 +1208,7 @@
       </trans-unit>
       <trans-unit id="The compression will be limited to %lld thread/s due to memory constraints." xml:space="preserve">
         <source>The compression will be limited to %lld thread/s due to memory constraints.</source>
-        <target>Kvůli paměťovým omezením bude komprimace bude omezena na %lld vlákno/vláken.</target>
+        <target>Kvůli omezení paměti bude komprimace omezena na %lld vlákno/vláken.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The destination has %@ of space available." xml:space="preserve">
@@ -1223,7 +1223,7 @@
       </trans-unit>
       <trans-unit id="The folder is empty" xml:space="preserve">
         <source>The folder is empty</source>
-        <target>Složka se prázdná</target>
+        <target>Složka je prázdná</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The password length should be %lld or higher." xml:space="preserve">
@@ -1233,7 +1233,7 @@
       </trans-unit>
       <trans-unit id="The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." xml:space="preserve">
         <source>The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents.</source>
-        <target>Čím pomalejší rychlost, tím vyšší komprimaci (menší soubor) lze dosáhnout. Režim bez komprimace nezmenšuje velikost souboru, pouze sloučí obsah do jednoho souboru.</target>
+        <target>Čím pomalejší úroveň, tím vyšší komprese. Úroveň „Bez komprese“ obsah pouze archivuje, ale nijak ho nekomprimuje.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This volume file needs additional files access to be opened.&#10;You can give access to the rest of the files or the parent folder." xml:space="preserve">
@@ -1245,17 +1245,17 @@ Můžete udělit oprávnění ke zbytku souborů ve složce nebo nadřazené slo
       </trans-unit>
       <trans-unit id="To be implemented" xml:space="preserve">
         <source>To be implemented</source>
-        <target>Bude implemenováno</target>
+        <target>Bude implementováno</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="To extract" xml:space="preserve">
         <source>To extract</source>
-        <target>Dekomprimovat</target>
+        <target>Rozbalit</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." xml:space="preserve">
         <source>To prevent a timeout on large operation, enable this setting. The result will always be true if enabled.</source>
-        <target>Zapněte tuto volbu, abyste předešli vypršení časového limitu při déle trvající operaci.</target>
+        <target>Chcete-li předejít vypršení časového limitu při dlouhé operaci, povolte toto nastavení. Je-li povoleno, výsledek bude vždy true.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total size" xml:space="preserve">
@@ -1270,7 +1270,7 @@ Můžete udělit oprávnění ke zbytku souborů ve složce nebo nadřazené slo
       </trans-unit>
       <trans-unit id="Try lowering the compression level, faster levels use less memory." xml:space="preserve">
         <source>Try lowering the compression level, faster levels use less memory.</source>
-        <target>Zkuste snížit úroveň komprimace, vyšší úrovně spotřebovávají méně paměti.</target>
+        <target>Zkuste snížit úroveň komprimace; rychlejší úrovně využívají méně paměti.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Type" xml:space="preserve">
@@ -1285,7 +1285,7 @@ Můžete udělit oprávnění ke zbytku souborů ve složce nebo nadřazené slo
       </trans-unit>
       <trans-unit id="Unable to apply the app icon" xml:space="preserve">
         <source>Unable to apply the app icon</source>
-        <target>Nelze aplikovat ikonu aplikace</target>
+        <target>Ikonu aplikace se nepodařilo použít</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unable to browse &quot;%@&quot;" xml:space="preserve">
@@ -1305,7 +1305,7 @@ Můžete udělit oprávnění ke zbytku souborů ve složce nebo nadřazené slo
       </trans-unit>
       <trans-unit id="Unable to get encoding data" xml:space="preserve">
         <source>Unable to get encoding data</source>
-        <target>Nelze zjistit kódování</target>
+        <target>Nepodařilo se získat informace o kódování</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use AES-256 Encryption" xml:space="preserve">
@@ -1315,17 +1315,17 @@ Můžete udělit oprávnění ke zbytku souborů ve složce nebo nadřazené slo
       </trans-unit>
       <trans-unit id="Use AES-256 if Available" xml:space="preserve">
         <source>Use AES-256 if Available</source>
-        <target>Pokud je to možné použít šifrování AES-256</target>
+        <target>Použít AES-256, pokud je k dispozici</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use Binaries if Possible" xml:space="preserve">
         <source>Use Binaries if Possible</source>
-        <target>Pokud možno použít binární soubory</target>
+        <target>Pokud je to možné, použít binární soubory</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use UTF-8 Encoding if Available" xml:space="preserve">
         <source>Use UTF-8 Encoding if Available</source>
-        <target>Pokud je to možné použít kódování UTF-8</target>
+        <target>Použít kódování UTF-8, pokud je k dispozici</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use continuous background task" xml:space="preserve">
@@ -1341,8 +1341,8 @@ Můžete udělit oprávnění ke zbytku souborů ve složce nebo nadřazené slo
       <trans-unit id="Using Keka through actions and extensions have memory limitations.&#10;Try this operation using Keka directly." xml:space="preserve">
         <source>Using Keka through actions and extensions have memory limitations.
 Try this operation using Keka directly.</source>
-        <target>Používání aplikace Keka prostřednictvím akcí a rozšíření má jistá paměťová omezení.
-Zkuste tuto operaci přímo s aplikací Keka.</target>
+        <target>Používání Keka prostřednictvím akcí a rozšíření má omezení paměti.
+Zkuste tuto operaci provést přímo v aplikaci Keka.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="VERIFY_OPERATION" xml:space="preserve">
@@ -1357,7 +1357,7 @@ Zkuste tuto operaci přímo s aplikací Keka.</target>
       </trans-unit>
       <trans-unit id="VERIFY_SECTION_TITLE" xml:space="preserve">
         <source>Verifying</source>
-        <target>Ověření</target>
+        <target>Ověřuje se</target>
         <note>Verifying, tasks section title.</note>
       </trans-unit>
       <trans-unit id="Verify compression integrity" xml:space="preserve">
@@ -1387,7 +1387,7 @@ Zkuste tuto operaci přímo s aplikací Keka.</target>
       </trans-unit>
       <trans-unit id="Welcome to %@" xml:space="preserve">
         <source>Welcome to %@</source>
-        <target>Vítá Vás %@</target>
+        <target>Vítejte v aplikaci %@</target>
         <note>The "Welcome to Keka" title.</note>
       </trans-unit>
       <trans-unit id="Where" xml:space="preserve">
@@ -1432,22 +1432,22 @@ Zkuste tuto operaci přímo s aplikací Keka.</target>
       </trans-unit>
       <trans-unit id="extract" xml:space="preserve">
         <source>extract</source>
-        <target>dekomprimovat</target>
+        <target>rozbalit</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="extracted" xml:space="preserve">
         <source>extracted</source>
-        <target>dekomprimováno</target>
+        <target>rozbaleno</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="extraction" xml:space="preserve">
         <source>extraction</source>
-        <target>dekomprimace</target>
+        <target>rozbalení</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="extraction failed" xml:space="preserve">
         <source>extraction failed</source>
-        <target>dekomprimace selhala</target>
+        <target>rozbalení selhalo</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="failed" xml:space="preserve">
@@ -1462,7 +1462,7 @@ Zkuste tuto operaci přímo s aplikací Keka.</target>
       </trans-unit>
       <trans-unit id="verification failed" xml:space="preserve">
         <source>verification failed</source>
-        <target>ověřování selhalo</target>
+        <target>ověření selhalo</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="verified" xml:space="preserve">
@@ -1503,7 +1503,7 @@ Zkuste tuto operaci přímo s aplikací Keka.</target>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Extract using Keka</source>
-        <target>Dekomprimovat pomocí Keka</target>
+        <target>Rozbalit pomocí Keka</target>
         <note>Bundle display name</note>
       </trans-unit>
     </body>
